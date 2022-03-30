@@ -1,7 +1,7 @@
 # GCN_analysis
 Implementation for AAAI workshop 2022
 
-## ipynb file
+## Easy running using .ipynb file
 You can simply run the code with your data using `final.ipynb`, remember to fill in your dataset into a list of documents/labels
 ```python
 original_train_sentences = 
