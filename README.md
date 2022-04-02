@@ -1,5 +1,12 @@
-# GCN_analysis
-Implementation for AAAI workshop 2022
+# Understanding Graph Convolutional Networks for Text Classification
+Official Implementation for AAAI 2022 on DLG
+(https://arxiv.org/abs/2203.16060)
+
+<h4 align="center">
+  <b>Han, C.*, Yuan, Z.*, Wang, K., Long, S., & Poon, J. (2022). <br/><a href="https://arxiv.org/abs/2203.16060">Understanding Graph Convolutional Networks for Text Classification</a><br/>In proceeding of AAAI 2022 on DLG</b></span>
+</h4>
+
+
 
 ## Easy running using .ipynb file
 You can simply run the code with your data using `final.ipynb`, remember to fill in your dataset into a list of documents/labels
