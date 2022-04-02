@@ -2,9 +2,9 @@
 Official Implementation for AAAI 2022 on DLG
 (https://arxiv.org/abs/2203.16060)
 
-<h4 align="center">
+<h3>
   <b>Han, C.*, Yuan, Z.*, Wang, K., Long, S., & Poon, J. (2022). <br/><a href="https://arxiv.org/abs/2203.16060">Understanding Graph Convolutional Networks for Text Classification</a><br/>In proceeding of AAAI 2022 on DLG</b></span>
-</h4>
+</h3>
 
 
 
